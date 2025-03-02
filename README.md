@@ -12,7 +12,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   get: latest_version
   icons_plus: ^5.0.0
-  firebase_core: ^1.20.0
+  firebase_core: ^3.0.0
 ```
 
 > **Note:** The following dependencies are currently listed but not used:
