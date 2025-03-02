@@ -80,7 +80,8 @@ The project follows an organized architecture with separate folders for CRUD ope
 <img width="846" alt="Screenshot 2025-03-02 at 5 59 28 PM" src="https://github.com/user-attachments/assets/ed5a2db0-8c4e-42d6-b641-c6efa4795f6e" />
 <img width="968" alt="Screenshot 2025-03-02 at 6 01 54 PM" src="https://github.com/user-attachments/assets/3eaccac6-4100-464a-91e6-ec2899e88cdd" />
 
-
+## Step 7: You will get firebase_options.dart auto generated file
+<img width="573" alt="Screenshot 2025-03-02 at 6 07 53 PM" src="https://github.com/user-attachments/assets/428ae26f-c7af-4fcd-bfad-43ae144c4a31" />
 
 
 ### Running the Project
