@@ -66,6 +66,11 @@ The project follows an organized architecture with separate folders for CRUD ope
 ## Step3 : Go To Dashboard and Create Flutter App
 <img width="921" alt="Screenshot 2025-03-02 at 5 45 06 PM" src="https://github.com/user-attachments/assets/02275501-ae38-47ca-bc4a-5cff9cdd7668" />
 
+
+## Step3.5 : Install CLI Firebase [Firebase CLI](https://firebase.google.com/docs/cli?hl=en&authuser=0&_gl=1*1ve3rvo*_ga*ODU2MzEyOTMzLjE3NDA4OTc1OTk.*_ga_CW55HF8NVT*MTc0MDkxNzM4OS4zLjEuMTc0MDkxNzc2Ny42MC4wLjA.#install_the_firebase_cli)
+
+
+
 ## Step4 : Run Firebase Login in Android Studio Terminal
 <img width="610" alt="Screenshot 2025-03-02 at 5 46 34 PM" src="https://github.com/user-attachments/assets/8f500ee5-8c0f-4506-b2bf-0a1fb6413d5b" />
 
