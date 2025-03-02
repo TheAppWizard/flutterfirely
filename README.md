@@ -84,6 +84,16 @@ The project follows an organized architecture with separate folders for CRUD ope
 <img width="573" alt="Screenshot 2025-03-02 at 6 07 53 PM" src="https://github.com/user-attachments/assets/428ae26f-c7af-4fcd-bfad-43ae144c4a31" />
 
 
+## Step 8: Last Step
+```dart
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+  runApp(const MyApp());
+}
+```
+
+
 ### Running the Project
 
 To run the project, ensure you have Flutter installed and execute the following command:
