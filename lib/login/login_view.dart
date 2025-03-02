@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:get/get.dart';
 import 'package:icons_plus/icons_plus.dart';
 import '../widgets/app_button.dart';
@@ -24,7 +23,9 @@ class LoginView extends StatelessWidget {
       ),
       body: Center(
         child: AppButton(
-          onPressed: () {},
+          onPressed: () {
+            loginController.login();
+          },
           text: 'Login with Google',
           icon: Brand(Brands.google),
           color: Colors.white,
