@@ -55,6 +55,21 @@ The project follows an organized architecture with separate folders for CRUD ope
 #### Widgets
 - `lib/widgets/` - Contains reusable UI components.
 
+### Steps to Setup Firebase
+
+## Step 1 : Go To Firebase Console
+<img width="734" alt="Screenshot 2025-03-02 at 5 40 09 PM" src="https://github.com/user-attachments/assets/3e4b58da-a332-4b23-bd06-2a82f6a13b36" />
+
+## Step 2 : Create Project
+<img width="847" alt="Screenshot 2025-03-02 at 5 41 25 PM" src="https://github.com/user-attachments/assets/fda2cad3-920b-43ea-a9ff-7ab3af1b8b76" />
+
+## Step3 : Go To Dashboard and Create Flutter App
+<img width="921" alt="Screenshot 2025-03-02 at 5 45 06 PM" src="https://github.com/user-attachments/assets/02275501-ae38-47ca-bc4a-5cff9cdd7668" />
+
+## Step4 : Run Firebase Login
+<img width="610" alt="Screenshot 2025-03-02 at 5 46 34 PM" src="https://github.com/user-attachments/assets/8f500ee5-8c0f-4506-b2bf-0a1fb6413d5b" />
+
+
 ### Running the Project
 
 To run the project, ensure you have Flutter installed and execute the following command:
