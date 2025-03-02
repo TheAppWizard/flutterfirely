@@ -94,6 +94,11 @@ Future<void> main() async {
 ```
 
 
+### Steps to Setup Google Login
+```pubspec.yaml
+google_sign_in: ^6.2.2
+```
+
 ### Running the Project
 
 To run the project, ensure you have Flutter installed and execute the following command:
