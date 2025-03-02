@@ -72,7 +72,7 @@ The project follows an organized architecture with separate folders for CRUD ope
 ## Step4 : Run Firebase Login in Android Studio Terminal
 <img width="610" alt="Screenshot 2025-03-02 at 5 46 34 PM" src="https://github.com/user-attachments/assets/8f500ee5-8c0f-4506-b2bf-0a1fb6413d5b" />
 
-## Step5 : After Login Run This Command 
+## Step5 : After Login Run This Command (dart pub global activate flutterfire_cli)
 <img width="707" alt="Screenshot 2025-03-02 at 5 54 37 PM" src="https://github.com/user-attachments/assets/aac60bfb-12cf-4193-a29e-d87391c0cfb1" />
 
 
