@@ -66,7 +66,7 @@ The project follows an organized architecture with separate folders for CRUD ope
 ## Step3 : Go To Dashboard and Create Flutter App
 <img width="921" alt="Screenshot 2025-03-02 at 5 45 06 PM" src="https://github.com/user-attachments/assets/02275501-ae38-47ca-bc4a-5cff9cdd7668" />
 
-## Step4 : Run Firebase Login
+## Step4 : Run Firebase Login in Android Studio Terminal
 <img width="610" alt="Screenshot 2025-03-02 at 5 46 34 PM" src="https://github.com/user-attachments/assets/8f500ee5-8c0f-4506-b2bf-0a1fb6413d5b" />
 
 
