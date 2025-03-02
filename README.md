@@ -105,6 +105,10 @@ google_sign_in: ^6.2.2
 
 <img width="1135" alt="Screenshot 2025-03-02 at 6 30 58 PM" src="https://github.com/user-attachments/assets/e6bc7639-7ada-40a3-b033-1d7cf6a45ab2" />
 
+### Step 3: Select OAuth Consent
+<img width="480" alt="Screenshot 2025-03-02 at 6 34 14 PM" src="https://github.com/user-attachments/assets/8beb4264-4732-4554-a856-a83a686e778b" />
+
+
 
 
 ### Running the Project
