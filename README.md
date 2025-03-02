@@ -1,6 +1,6 @@
 # FlutterFirely
 
-A new Flutter project.
+Firebase Auth and Storage
 
 ## Getting Started
 
