@@ -69,10 +69,12 @@ The project follows an organized architecture with separate folders for CRUD ope
 
 ## Step3.5 : Install CLI Firebase [Firebase CLI](https://firebase.google.com/docs/cli?hl=en&authuser=0&_gl=1*1ve3rvo*_ga*ODU2MzEyOTMzLjE3NDA4OTc1OTk.*_ga_CW55HF8NVT*MTc0MDkxNzM4OS4zLjEuMTc0MDkxNzc2Ny42MC4wLjA.#install_the_firebase_cli)
 
-
-
 ## Step4 : Run Firebase Login in Android Studio Terminal
 <img width="610" alt="Screenshot 2025-03-02 at 5 46 34 PM" src="https://github.com/user-attachments/assets/8f500ee5-8c0f-4506-b2bf-0a1fb6413d5b" />
+
+## Step5 : After Login Run This Command 
+<img width="707" alt="Screenshot 2025-03-02 at 5 54 37 PM" src="https://github.com/user-attachments/assets/aac60bfb-12cf-4193-a29e-d87391c0cfb1" />
+
 
 
 ### Running the Project
