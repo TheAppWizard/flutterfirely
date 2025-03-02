@@ -67,13 +67,19 @@ The project follows an organized architecture with separate folders for CRUD ope
 <img width="921" alt="Screenshot 2025-03-02 at 5 45 06 PM" src="https://github.com/user-attachments/assets/02275501-ae38-47ca-bc4a-5cff9cdd7668" />
 
 
-## Step3.5 : Install CLI Firebase [Firebase CLI](https://firebase.google.com/docs/cli?hl=en&authuser=0&_gl=1*1ve3rvo*_ga*ODU2MzEyOTMzLjE3NDA4OTc1OTk.*_ga_CW55HF8NVT*MTc0MDkxNzM4OS4zLjEuMTc0MDkxNzc2Ny42MC4wLjA.#install_the_firebase_cli)
+## Step 3.5 : Install CLI Firebase [Firebase CLI](https://firebase.google.com/docs/cli?hl=en&authuser=0&_gl=1*1ve3rvo*_ga*ODU2MzEyOTMzLjE3NDA4OTc1OTk.*_ga_CW55HF8NVT*MTc0MDkxNzM4OS4zLjEuMTc0MDkxNzc2Ny42MC4wLjA.#install_the_firebase_cli)
 
-## Step4 : Run Firebase Login in Android Studio Terminal
+## Step 4 : Run Firebase Login in Android Studio Terminal
 <img width="610" alt="Screenshot 2025-03-02 at 5 46 34 PM" src="https://github.com/user-attachments/assets/8f500ee5-8c0f-4506-b2bf-0a1fb6413d5b" />
 
-## Step5 : After Login Run This Command (dart pub global activate flutterfire_cli)
+## Step 5 : After Login Run This Command (dart pub global activate flutterfire_cli)
 <img width="707" alt="Screenshot 2025-03-02 at 5 54 37 PM" src="https://github.com/user-attachments/assets/aac60bfb-12cf-4193-a29e-d87391c0cfb1" />
+
+## Step 6 : Run This Command which you will get in Project Setup
+<img width="845" alt="Screenshot 2025-03-02 at 5 59 10 PM" src="https://github.com/user-attachments/assets/8a0da455-5d1c-444b-b3f5-f8c6237c8918" />
+<img width="846" alt="Screenshot 2025-03-02 at 5 59 28 PM" src="https://github.com/user-attachments/assets/ed5a2db0-8c4e-42d6-b641-c6efa4795f6e" />
+<img width="968" alt="Screenshot 2025-03-02 at 6 01 54 PM" src="https://github.com/user-attachments/assets/3eaccac6-4100-464a-91e6-ec2899e88cdd" />
+
 
 
 
