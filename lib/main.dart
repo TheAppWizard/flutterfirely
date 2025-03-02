@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'firebase_options.dart';
 import 'login/login_view.dart';
-
+import 'package:firebase_core/firebase_core.dart';
 
 
 ///  Created by Shreyas Vilaschandra Bhike on 24/03/24.
@@ -14,10 +15,12 @@ import 'login/login_view.dart';
 ///Powered by Firebase
 
 
-
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   runApp(const MyApp());
 }
+
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
